@@ -1,2 +1,12 @@
-credit_risk_project_tracker.md
-credit_portfolio.csv
+documents/
+
+dashboard/.vscode/
+dashboard/credit_risk_portfolio.Report/
+dashboard/credit_risk_portfolio.SemanticModel/
+dashboard/example/
+
+dashboard/credit_risk_portfolio.pbip
+dashboard/themes/
+
+Dataset/*.csv
+.vscode/
